@@ -12,7 +12,7 @@ I am the Founder and Director of UGrown International company, where my rule of 
 
 #### Social Entrepreneur
 
-As a Social Entrepreneur and Director of [UGrown International](https://www.linkedin.com/company/ugrown) company, my obligation is to pursue novel applications that have the potential to solve community-based problems. UGrown International, a startup company centring on advancing sustainable agriculture, sell irrigation solutions that deliver increased productivity per unit of resources, cater first-rate vegetables and fruits sourced from our farmers globally to the marketplace, and ensure well-being of the people by offering quality fresh produce. Urban Grown is a brand for fresh produce articles. At UGrown, we are passionate about agriculture, agro-processing and the environment. 
+As a Social Entrepreneur and Director of [UGrown](https://www.linkedin.com/company/ugrown) company, my obligation is to pursue novel applications that have the potential to solve community-based problems. UGrown, a startup company centring on advancing sustainable agriculture, sell irrigation solutions that deliver increased productivity per unit of resources, cater first-rate vegetables and fruits sourced from our farmers globally to the marketplace, and ensure well-being of the people by offering quality fresh produce. At UGrown, we are passionate about agriculture, agro-processing and the environment. 
 
 In a world with limited natural resources and growing population, sustainable productivity by empowering our farmers and customers to use land, water and energy in more efficient and responsible ways benefits not only business, but also protect the world’s natural resources. Our objective is to grow profitably through innovation and operational excellence in supplying topnotch products, delivering first-class service and developing the most efficient and sustainable fresh produce solutions in close cooperation with our customers, and foster sustainable agriculture by providing irrigation solutions and agronomic support to our farmers and customers.
 
@@ -60,5 +60,4 @@ or if you need any help with a particular destination, it will be my pleasure to
 You can always reach me at hello@wandererbio.com
 
 [Instagram](https://www.instagram.com/wandererbio)
-
 [LinkedIn](https://www.linkedin.com/in/marahmann)

@@ -1,13 +1,18 @@
 ## About me
 
 ### Who am I?
-My name is Rahman. I am a Social Entrepreneur, Technologist and Traveller. 
-I'm close to perfect concoction of rectitude in the walk of life. 
+
+My name is Rahman. I am a Social Entrepreneur, Technologist, Traveller and Photography Enthusiast. 
+
+I'm close to perfect concoction of rectitude in the walk of life.
+
 I am the founder of UGrown company, where my rule of thumb are to conduct global, quantitative study to gain deeper insights to transform traditional ways of farming, creating and implementing powerful new solutions, foster broad social and environmental goals in areas such as Good Health and Well-Being, Sustainable Agriculture, Environment and Communities. 
 
-M A Rahman is a Senior Software Engineer at Hewlett Packard Enterprise Research & Development with extensive experience in software designing, coding, debugging, documentation, testing, benchmarking and problem solving. I use to determine operational feasibility by evaluating analysis, problem definition, requirements, solution development, and proposed solutions. Delivered real world client/server applications to clients. 
+### What do I do ?
 
-In addition I am a passionate photographer, traveller, tech blogger, and global citizen. I joined global citizen community in 2012 and started working on the world's biggest challenges - extreme poverty, inequality and clean access to water.
+Besides being an Entrepreneur, I prior associated with Hewlett Packard Enterprise (HPE) company as Senior Software Engineer in CMS Research & Development Tean. I have extensive experience in software designing, coding, debugging, documentation, testing, benchmarking and problem solving. I use to determine operational feasibility by evaluating analysis, problem definition, requirements, solution development, and proposed solutions. High perseverance to quality work and customer engagement to provide quality solutions. 
+
+In addition I am a passionate photographer, traveller, technical blogger, and global citizen. I joined global citizen community in 2012 and started working on the world's biggest challenges - extreme poverty, inequality and clean access to water.
 
 I conceive that technology can continually be ameliorated and can improve the lives of people, making the world a better place.
 

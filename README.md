@@ -24,9 +24,9 @@ As a Technologist, I bring 6 years of experience as an intern, full stack develo
 
 Accolades received from managers and architects for demonstrating blend of skills SME, Innovation, Quality consciousness, Result oriented approach, Accountability, Technical Mentorship and Customer Engagement.
 
-I seldomly write technical blogs, and conceive that technology can continually be ameliorated and can improve the lives of people, making the world a better place.
+I seldomly write technical [blog](http://marahmann.blogspot.com/), and conceive that technology can continually be ameliorated and can improve the lives of people, making the world a better place.
 
-### Global Citizen
+#### Global Citizen
 
 As a [Global Citizen](https://www.globalcitizen.org/) and community development volunteer, I strongly believe that 1 billion people living in extreme poverty is unfair and unjust. Global Citizen is a movement of engaged citizens who are using their collective voice to end extreme poverty by 2030. Through our mix of content and events, grassroots organizing, and our action platform, we are building a movement to end poverty. We organize massive global campaigns to amplify the actions of Global Citizens from around the world.
 

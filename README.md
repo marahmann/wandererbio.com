@@ -33,7 +33,8 @@ or if you need any help with a particular destination, it will be my pleasure to
 
 You can always reach me at hello@wandererbio.com
 
-**Instagram @wandererbio**
+**Instagram** @[wandererbio](https://www.instagram.com/wandererbio)
 
-_Traveling it leaves you speechless, then turns you into storyteller_ - Ibn Battuta
+
+_Traveling it leaves you speechless, then turns you into storyteller!_ - Ibn Battuta
 

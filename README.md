@@ -10,7 +10,7 @@ I am the founder of UGrown company, where my rule of thumb are to conduct global
 
 ### What do I do ?
 
-Besides being an Entrepreneur, I prior associated with Hewlett Packard Enterprise (HPE) company as Senior Software Engineer in CMS Research & Development Tean. I have extensive experience in software designing, coding, debugging, documentation, testing, benchmarking and problem solving. I use to determine operational feasibility by evaluating analysis, problem definition, requirements, solution development, and proposed solutions. High perseverance to quality work and customer engagement to provide quality solutions. 
+Besides being an Entrepreneur, I prior associated with Hewlett Packard Enterprise (HPE) company as Senior Software Engineer in CMS Research & Development Tean. I have extensive experience in software designing, coding, debugging, documentation, testing, benchmarking and problem solving. I use to determine operational feasibility by evaluating analysis, problem definition, requirements, solution development, and proposed solutions. High perseverance to quality work and customer engagement to provide quality solutions. Here's my [LinkedIn](https://www.linkedin.com/in/marahmann/) profile
 
 In addition I am a passionate photographer, traveller, technical blogger, and global citizen. I joined global citizen community in 2012 and started working on the world's biggest challenges - extreme poverty, inequality and clean access to water.
 

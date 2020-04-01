@@ -2,25 +2,29 @@
 
 ### Who am I?
 
-My name is Rahman. I am a Social Entrepreneur, Technologist, Traveller and Photography Enthusiast. 
+You can call me Rahman. I'm close to perfect concoction of rectitude in the walk of life.
 
-I'm close to perfect concoction of rectitude in the walk of life.
+A Social Entrepreneur, Technologist, [Global Citizen](https://www.globalcitizen.org/), Shutterbug and Traveller.
 
-I am the founder of UGrown company, where my rule of thumb are to conduct global, quantitative study to gain deeper insights to transform traditional ways of farming, creating and implementing powerful new solutions, foster broad social and environmental goals in areas such as Good Health and Well-Being, Sustainable Agriculture, Environment and Communities. 
+I am the founder and director of UGrown International company, where my rule of thumb are to conduct global, quantitative study to gain deeper insights to transform traditional ways of farming, creating and implementing powerful new solutions, foster broad social and environmental goals in areas such as Good Health and Well-Being, Sustainable Agriculture, Environment and Communities. 
 
 ### What do I do?
+
+#### Social Entrepreneur
 
 Besides being an Entrepreneur, I prior associated with Hewlett Packard Enterprise (HPE) company as Senior Software Engineer in CMS Research & Development Team. I have extensive experience in software designing, coding, debugging, documentation, testing, benchmarking and problem solving. I use to determine operational feasibility by evaluating analysis, problem definition, requirements, solution development, and proposed solutions. High perseverance to quality work and customer engagement to provide quality solutions. Here's my [LinkedIn](https://www.linkedin.com/in/marahmann/) profile
 
 I conceive that technology can continually be ameliorated and can improve the lives of people, making the world a better place.
 
-In addition i'm a passionate traveller and photographer. I love to travel. My biggest passion is traveling the world and experiencing new adventures and cultures. I live for it. I write technical blogs whenever I get free time. I'm a Global citizen who joined GC community in 2012 and started working on the world's biggest challenges - ending extreme poverty and climate change.
+In addition i'm a passionate traveller and photographer. I love to travel. My biggest passion is traveling the world and experiencing new adventures and cultures. I live for it. I write technical blogs whenever I get free time. I'm a Global citizen who joined GC community in 2011 and started working on the world's biggest challenges - ending extreme poverty and climate change.
+
+Global Citizen is a movement of engaged citizens who are using their collective voice to end extreme poverty by 2030. Through our mix of content and events, grassroots organizing, and our action platform, we are building a movement to end poverty. We organize massive global campaigns to amplify the actions of Global Citizens from around the world.
 
 ### How can I help you?
 
 If you have any questions regarding my area of expertise
 
-- Entrepreneurship
+- Social Entrepreneurship
 - Software Engineering
 - Travel
 - Blogging

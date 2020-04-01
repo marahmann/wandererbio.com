@@ -4,7 +4,7 @@
 
 You can call me Rahman. I'm close to perfect concoction of rectitude in the walk of life.
 
-A Social Entrepreneur, Technologist, Global Citizen, Shutterbug and Traveller.
+A Social Entrepreneur, Technologist, Global Citizen, Shutterbug and Wanderer.
 
 I am the Founder and Director of UGrown International company, where my rule of thumb are to conduct global, quantitative study to gain deeper insights to transform traditional ways of farming, creating and implementing powerful new solutions, foster broad social and environmental goals in areas such as Good Health and Well-Being, Sustainable Agriculture, Environment and Communities. 
 
@@ -24,7 +24,7 @@ As a Technologist, I brings 6 years of experience as an intern, full stack devel
 
 Accolades received from manager and architects for demonstrating blend of skills SME, Innovation, Quality consciousness, Result oriented approach, accountability, technical Mentorship and Customer Engagement.
 
-I conceive that technology can continually be ameliorated and can improve the lives of people, making the world a better place.
+I seldomly write technical blogs, and conceive that technology can continually be ameliorated and can improve the lives of people, making the world a better place.
 
 ### Global Citizen
 
@@ -32,29 +32,32 @@ As a [Global Citizen](https://www.globalcitizen.org/) and community development 
 
 Since 2011, I and millions of Global Citizens around the world have taken over 24 million actions to targeting world leaders to end extreme poverty by 2030. To date, the actions by our global community along with our high level advocacy efforts and with our partners, have resulted commitments and policy announcements from leaders, valued at over $48 billion that have impacted more than 880 million people.
 
-In addition i'm a passionate traveller and photographer. I love to travel. My biggest passion is traveling the world and experiencing new adventures and cultures. I live for it. I write technical blogs whenever I get free time. I'm a Global citizen who joined GC community in 2011 and started working on the world's biggest challenges - ending extreme poverty and climate change.
+### Shutterbug
 
-Global Citizen is a movement of engaged citizens who are using their collective voice to end extreme poverty by 2030. Through our mix of content and events, grassroots organizing, and our action platform, we are building a movement to end poverty. We organize massive global campaigns to amplify the actions of Global Citizens from around the world.
+As a Photography Enthusiast, I love to shoot the subject came across on my travel. I mostly do travel, nature, landscape and wildlife photography.
+
+### Wanderer
+
+I love to travel. Self realised about itchy feet. I have travelled through 21 states in motherland India, and other countries like Singapore, Malaysia, Indonesia, China, Hong Kong and United Arab Emirates. My biggest passion is traveling the world and experiencing new adventures and cultures. I live for it.
+
+_Traveling it leaves you speechless, then turns you into storyteller!_ - Ibn Battuta
 
 ### How can I help you?
 
 If you have any questions regarding my area of expertise
 
 - Social Entrepreneurship
-- Software Engineering
-- Travel
-- Blogging
-- Photography
+- Techno-Optimism
 - Global Citizen
+- Travel
+- Photography
+- Blogging
 
 or if you need any help with a particular destination, it will be my pleasure to help you in any way I can or refer you to some amazing travellers within the travel blogging community.
 
 ### Contact
 
 You can always reach me at hello@wandererbio.com
-
-**Instagram:** [wandererbio](https://www.instagram.com/wandererbio)
-
-
-_Traveling it leaves you speechless, then turns you into storyteller!_ - Ibn Battuta
+[Instagram](https://www.instagram.com/wandererbio)
+[LinkedIn](https://www.linkedin.com/in/marahmann)
 

@@ -32,11 +32,11 @@ As a [Global Citizen](https://www.globalcitizen.org/) and community development 
 
 Since 2011, I and millions of Global Citizens around the world have taken over 24 million actions to targeting world leaders to end extreme poverty by 2030. To date, the actions by our global community along with our high level advocacy efforts and with our partners, have resulted commitments and policy announcements from leaders, valued at over $48 billion that have impacted more than 880 million people.
 
-### Shutterbug
+#### Shutterbug
 
-As a Photography Enthusiast, I love to shoot the subject came across on my travel. I mostly do travel, nature, landscape and wildlife photography.
+As a Photography enthusiast, I love to shoot the subject came across. I prefer to do travel, nature, landscape and wildlife photography.
 
-### Wanderer
+#### Wanderer
 
 I love to travel. Self realised about itchy feet. I have travelled through 21 states in motherland India, and other countries like Singapore, Malaysia, Indonesia, China, Hong Kong and United Arab Emirates. My biggest passion is traveling the world and experiencing new adventures and cultures. I live for it.
 
@@ -58,6 +58,7 @@ or if you need any help with a particular destination, it will be my pleasure to
 ### Contact
 
 You can always reach me at hello@wandererbio.com
-[Instagram](https://www.instagram.com/wandererbio)
-[LinkedIn](https://www.linkedin.com/in/marahmann)
 
+[Instagram](https://www.instagram.com/wandererbio)
+
+[LinkedIn](https://www.linkedin.com/in/marahmann)

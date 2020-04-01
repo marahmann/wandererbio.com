@@ -59,6 +59,8 @@ or if you need any help with a particular destination, it will be my pleasure to
 
 You can always reach me at hello@wandererbio.com
 
+Read [Blog](http://marahmann.blogspot.com/)
+
 Follow [Instagram](https://www.instagram.com/wandererbio)
 
 Connect [LinkedIn](https://www.linkedin.com/in/marahmann)

@@ -63,7 +63,7 @@ Follow me on Social Media
 
 [Instagram](https://www.instagram.com/wandererbio)
 
-[Facebook](https://www.facebook.com/imarahmann) page 
+[Facebook](https://www.facebook.com/wandererbio) page
 
 Connect [LinkedIn](https://www.linkedin.com/in/marahmann)
 

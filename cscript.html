@@ -1,0 +1,8 @@
+{% comment %}
+    Adds references to JavaScript and CSS files to a page.
+    Takes page.custom-javascript-list varialbe and renders script tag for each item in it.
+{% endcomment %}
+
+{% for javascript in page.custom-javascript-list %}
+    <script data-ad-client="ca-pub-7942490529687454" async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+{% endfor %}

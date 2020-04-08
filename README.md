@@ -24,7 +24,7 @@ As a Technologist, I bring 6+ years of experience as an intern, full stack devel
 
 Accolades received from managers and architects for exhibiting blend of skills; SME, Innovation, Quality consciousness, Result oriented approach, Accountability, Technical Mentorship and Customer Engagement.
 
-I seldomly write technical [blog](http://marahmann.blogspot.com/). Cognizant that technology can continually be ameliorated and can improve the lives of people, making the world a better place.
+I seldomly write technical [blog](https://blog.wandererbio.com/). Cognizant that technology can continually be ameliorated and can improve the lives of people, making the world a better place.
 
 #### Global Citizen
 
@@ -67,4 +67,4 @@ Follow me on Social Media
 
 Connect [LinkedIn](https://www.linkedin.com/in/marahmann)
 
-Read [Blog](http://marahmann.blogspot.com/)
+Read [Blog](https://blog.wandererbio.com/)

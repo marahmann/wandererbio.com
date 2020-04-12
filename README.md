@@ -4,7 +4,7 @@
 
 You can call me Rahman. I'm close to perfect concoction of rectitude in the walk of life.
 
-A Social Entrepreneur, Technologist, Global Citizen, Shutterbug and Wanderer.
+A Social Entrepreneur, Technologist, Global Citizen, Shutterbug & Wanderer.
 
 I am the Founder and Director of [UGrown](https://www.linkedin.com/company/ugrown) company, where my rule of thumb are to conduct global, quantitative study to gain deeper insights to transform traditional ways of farming, creating and implementing powerful new solutions, foster broad social and environmental goals in areas such as Good Health and Well-Being, Sustainable Agriculture, Environment and Communities. 
 

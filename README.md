@@ -57,7 +57,7 @@ or if you need any help with a particular destination, it will be my pleasure to
 
 ### Contact
 
-You can always reach me at [hello@wandererbio.com](hello@wandererbio.com)
+You can always reach me at [hello@wandererbio.com](mailto:hello@wandererbio.com)
 
 Follow me on Social Media
 

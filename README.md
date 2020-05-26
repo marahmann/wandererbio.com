@@ -38,7 +38,7 @@ As a Photography enthusiast, I love to shoot the subject came across. I prefer t
 
 #### Wanderer
 
-I love to travel. Conscious about itchy feet. I have travelled through 21 states in motherland India, and other countries like Singapore, Malaysia, Indonesia, China, Hong Kong and United Arab Emirates. My biggest passion is traveling the world and experiencing new adventures and cultures. I live for it.
+I love to travel. Conscious about itchy feet. I have travelled through 21 states in motherland India, and other countries like Singapore, Malaysia, Maldives, China, Hong Kong and United Arab Emirates. My biggest passion is traveling the world and experiencing new adventures and cultures. I live for it.
 
 _Traveling; it leaves you speechless, then turns you into storyteller!_ - Ibn Battuta
 

@@ -64,3 +64,5 @@ Social Media
 [Instagram](https://instagram.com/wandererbio)
 
 [Facebook](https://facebook.com/wandererbio)
+
+[Twitter](https://twitter.com/wandererbio)

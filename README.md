@@ -4,17 +4,17 @@
 
 You can call me Rahman. I'm close to perfect concoction of rectitude in the walk of life.
 
-I am the Founder and Director of [UGrown](https://www.linkedin.com/company/ugrown) company. My rule of thumb is to conduct global, quantitative study to gain deeper insights to transform traditional ways of farming, creating and implementing powerful new solutions, foster broad social and environmental goals in areas such as Good Health and Well-Being, Sustainable Agriculture, Environment and Communities. 
+I am the Founder and Managing Director of [UGrown](https://www.linkedin.com/company/ugrown) company. My rule of thumb is to conduct global, quantitative study to gain deeper insights to transform traditional ways of farming, creating and implementing powerful new solutions, foster broad social and environmental goals in areas such as Good Health and Well-Being, Sustainable Agriculture, Environment and Communities. 
 
 ### What do I do?
 
 #### Entrepreneur
 
-As an Entrepreneur and Director of [UGrown](https://www.linkedin.com/company/ugrown) company, my obligation is to pursue novel applications that have the potential to solve community-based problems. UGrown, a company centring on advancing sustainable agriculture, sells irrigation solutions that deliver increased productivity per unit of resources, cater first-rate vegetables and fruits sourced from our farmers globally to the marketplace, and ensure the well-being of the people by offering quality fresh produce. We offer financial aid to uplift our farmers and their communities. At UGrown, we are passionate about agriculture, agro-processing and the environment. 
+As an Entrepreneur and Managing Director of [UGrown](https://www.linkedin.com/company/ugrown) company, my obligation is to pursue novel applications that have the potential to solve community-based problems. UGrown, a company centring on advancing sustainable agriculture, sells irrigation solutions that deliver increased productivity per unit of resources, cater first-rate vegetables and fruits sourced from our farmers globally to the marketplace, and ensure the well-being of the people by offering quality fresh produce. We offer financial aid to uplift our farmers and their communities. At UGrown, we are passionate about agriculture, agro-processing and the environment. 
 
 In a world with limited natural resources and growing population, sustainable productivity by empowering our farmers and customers to use land, water and energy in more efficient and responsible ways benefits not only business, but also protect the world’s natural resources. Our objective is to grow profitably through innovation and operational excellence in supplying topnotch products, delivering first-class service and developing the most efficient and sustainable fresh produce solutions in close cooperation with our customers, and foster sustainable agriculture by providing irrigation solutions and agronomic support to our farmers and customers.
 
-As a top-level manager, I am responsible for controlling and overseeing the entire organisation. Roles include formulating the company business strategy and implementing policies, making decisions, calling meetings, governance, maintaining corporate integrity and fiduciary duties.
+As a top-level manager, I am responsible for controlling and overseeing the entire organisation. Roles include formulating the company business strategy and implementing policies, making decisions, calling meetings, governance, maintaining corporate integrity, and fiduciary duties.
 
 #### Software Engineer
 
